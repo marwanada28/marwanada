@@ -1,4 +1,4 @@
-public class perulangan {
+public class looping2 {
 
   public static void main(String[] agrs) {
     int i = 1;
