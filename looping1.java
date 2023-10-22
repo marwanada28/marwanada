@@ -1,4 +1,4 @@
-public class algoritma {
+public class looping1 {
 
     public static void main(String[] agrs) {
       int a = 1;
